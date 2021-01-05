@@ -59,7 +59,7 @@
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "eslint": "^6.8.0",
     "jsoneditor": "^8.6.3",
     "lazyload-loader": "^1.2.0",
